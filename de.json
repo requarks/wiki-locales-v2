@@ -550,7 +550,7 @@
     "auth:registerCheckEmail": "Überprüfe deine E-Mails, um dein Konto zu aktivieren.",
     "auth:registerSubTitle": "Fülle das untenstehende Formular aus, um dein Konto zu erstellen.",
     "auth:registerSuccess": "Der Account wurde erfolgreich erstellt!",
-    "auth:registerTitle": "Erstelle eine Account",
+    "auth:registerTitle": "Erstelle einen Account",
     "auth:registering": "Konto wird erstellt...",
     "auth:selectAuthProvider": "Authentifizierungsanbieter auswählen",
     "auth:sendResetPassword": "Passwort zurücksetzen",
