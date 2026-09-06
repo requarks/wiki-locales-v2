@@ -841,7 +841,7 @@
     "editor:props.pageProperties": "পৃষ্ঠার বৈশিষ্ট্য",
     "editor:props.path": "পথ",
     "editor:props.pathCategorization": "পথ ও শ্রেণীবিন্যাস",
-    "editor:props.pathHint": "Do not include any leading or trailing slashes.",
+    "editor:props.pathHint": "শুরুতে বা শেষে কোনো স্ল্যাশ যোগ করবেন না।",
     "editor:props.publishEnd": "প্রকাশের শেষ তারিখ...",
     "editor:props.publishEndHint": "শেষ তারিখ না থাকলে ফাঁকা রাখুন",
     "editor:props.publishStart": "প্রকাশ শুরু হচ্ছে...",
